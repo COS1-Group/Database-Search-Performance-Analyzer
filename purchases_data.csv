@@ -1,0 +1,36 @@
+customer_id,customer_name,purchase_date,product_id,product_category,amount
+CUS20240001,Adebayo Olanrewaju,2024-01-15,PRD001,Electronics,45000.00
+CUS20240002,Fatima Ibrahim,2024-01-16,PRD002,Food & Beverages,8500.00
+CUS20240003,Chinedu Okwu,2024-01-17,PRD003,Clothing,12000.00
+CUS20240004,Aisha Mohammed,2024-01-18,PRD004,Beauty & Personal Care,3500.00
+CUS20240005,Emeka Nwosu,2024-01-19,PRD005,Home & Kitchen,25000.00
+CUS20240006,Kemi Adebisi,2024-01-20,PRD006,Electronics,85000.00
+CUS20240007,Musa Aliyu,2024-01-21,PRD007,Food & Beverages,15000.00
+CUS20240008,Ngozi Okafor,2024-01-22,PRD008,Clothing,18500.00
+CUS20240009,Abdul Rahman,2024-01-23,PRD009,Health & Wellness,7200.00
+CUS20240010,Funmilayo Adesola,2024-01-24,PRD010,Beauty & Personal Care,5500.00
+CUS20240011,Tunde Bakare,2024-01-25,PRD011,Electronics,32000.00
+CUS20240012,Zainab Yusuf,2024-01-26,PRD012,Food & Beverages,22000.00
+CUS20240013,Chioma Ugwu,2024-01-27,PRD013,Home & Kitchen,15500.00
+CUS20240014,Bola Ogundimu,2024-01-28,PRD014,Clothing,9800.00
+CUS20240015,Salihu Garba,2024-01-29,PRD015,Electronics,67000.00
+CUS20240016,Amina Abdullahi,2024-01-30,PRD016,Beauty & Personal Care,4200.00
+CUS20240017,Olu Adeyemi,2024-02-01,PRD017,Food & Beverages,11500.00
+CUS20240018,Hauwa Musa,2024-02-02,PRD018,Health & Wellness,8900.00
+CUS20240019,Ikechukwu Obi,2024-02-03,PRD019,Electronics,125000.00
+CUS20240020,Folake Oni,2024-02-04,PRD020,Clothing,14200.00
+CUS20240021,Yakubu Danjuma,2024-02-05,PRD021,Home & Kitchen,28500.00
+CUS20240022,Omolara Adebayo,2024-02-06,PRD022,Food & Beverages,6800.00
+CUS20240023,Usman Bello,2024-02-07,PRD023,Electronics,45500.00
+CUS20240024,Blessing Okoro,2024-02-08,PRD024,Beauty & Personal Care,7100.00
+CUS20240025,Ahmed Lawal,2024-02-09,PRD025,Clothing,16800.00
+CUS20240026,Obiageli Eze,2024-02-10,PRD026,Health & Wellness,12400.00
+CUS20240027,Segun Olatunji,2024-02-11,PRD027,Electronics,38000.00
+CUS20240028,Hadiza Isah,2024-02-12,PRD028,Food & Beverages,19200.00
+CUS20240029,Chukwuma Anyanwu,2024-02-13,PRD029,Home & Kitchen,21000.00
+CUS20240030,Remi Ogundipe,2024-02-14,PRD030,Beauty & Personal Care,5800.00
+CUS20240031,Nasir Abdullahi,2024-02-15,PRD031,Electronics,72000.00
+CUS20240032,Chidinma Okoye,2024-02-16,PRD032,Clothing,13500.00
+CUS20240033,Bashir Umar,2024-02-17,PRD033,Food & Beverages,9700.00
+CUS20240034,Tolulope Akinola,2024-02-18,PRD034,Health & Wellness,6300.00
+CUS20240035,Ibrahim Suleiman,2024-02-19,PRD035,Electronics,156000.00
